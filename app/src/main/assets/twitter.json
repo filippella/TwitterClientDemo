@@ -1,0 +1,4479 @@
+﻿[
+    {
+        "created_at": "Thu Jun 25 17:03:18 +0000 2015",
+        "id": 614116668063805400,
+        "id_str": "614116668063805440",
+        "text": "test status update from android",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2778558691,
+            "id_str": "2778558691",
+            "name": "Filippo Engidashet",
+            "screen_name": "filippo_eng",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7,
+            "friends_count": 42,
+            "listed_count": 0,
+            "created_at": "Fri Aug 29 14:01:01 +0000 2014",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 3,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jun 25 17:00:33 +0000 2015",
+        "id": 614115976305602600,
+        "id_str": "614115976305602562",
+        "text": "\"If we don’t work together then nothing will change.\" @HeidiOran http://t.co/cjK9FK5QIx",
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 151903568,
+            "id_str": "151903568",
+            "name": "Jon M",
+            "screen_name": "ThinDifference",
+            "location": "Dallas, TX",
+            "description": "Generational myths create leadership gaps. Bring leaders together to share insights, empowering Millennials and connecting by purpose. http://t.co/S6VYYXPbpL",
+            "url": "http://t.co/YpuOnrgg2R",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/YpuOnrgg2R",
+                            "expanded_url": "http://bit.ly/Activate_Leadership",
+                            "display_url": "bit.ly/Activate_Leade…",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/S6VYYXPbpL",
+                            "expanded_url": "http://www.thindifference.com",
+                            "display_url": "thindifference.com",
+                            "indices": [
+                                135,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 32225,
+            "friends_count": 21919,
+            "listed_count": 918,
+            "created_at": "Fri Jun 04 15:02:06 +0000 2010",
+            "favourites_count": 6169,
+            "utc_offset": -10800,
+            "time_zone": "Atlantic Time (Canada)",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 59978,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "127CBD",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000494031964/9a686495c87a05f881f064e496ae4b72_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000494031964/9a686495c87a05f881f064e496ae4b72_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/151903568/1424747923",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DAE2E6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "HeidiOran",
+                    "name": "Heidi Oran",
+                    "id": 318533540,
+                    "id_str": "318533540",
+                    "indices": [
+                        54,
+                        64
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "http://t.co/cjK9FK5QIx",
+                    "expanded_url": "http://bit.ly/1e4mB9y",
+                    "display_url": "bit.ly/1e4mB9y",
+                    "indices": [
+                        65,
+                        87
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jun 25 16:58:01 +0000 2015",
+        "id": 614115342261055500,
+        "id_str": "614115342261055488",
+        "text": "RT @PierluigiMerico: Russia says chooses trading firms to deal in Iranian oil - http://t.co/N3yAU7q9B9 #crude #oil",
+        "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 896914057,
+            "id_str": "896914057",
+            "name": "Crude Oil Inventory",
+            "screen_name": "Oilinventory",
+            "location": "",
+            "description": "Gas, oil, petroleum and energy is of interest. In particular Crude Oil Inventory",
+            "url": "http://t.co/siHXsefS9k",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/siHXsefS9k",
+                            "expanded_url": "http://crude-oil-prices.net/",
+                            "display_url": "crude-oil-prices.net",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2240,
+            "friends_count": 1589,
+            "listed_count": 55,
+            "created_at": "Mon Oct 22 06:53:32 +0000 2012",
+            "favourites_count": 36,
+            "utc_offset": 10800,
+            "time_zone": "Athens",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 12604,
+            "lang": "no",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2749358108/eb9d6229ee87f25aab85bce18b1a1224_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2749358108/eb9d6229ee87f25aab85bce18b1a1224_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/896914057/1386005083",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jun 25 16:42:29 +0000 2015",
+            "id": 614111432351838200,
+            "id_str": "614111432351838208",
+            "text": "Russia says chooses trading firms to deal in Iranian oil - http://t.co/N3yAU7q9B9 #crude #oil",
+            "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 802703184,
+                "id_str": "802703184",
+                "name": "Pierluigi Merico",
+                "screen_name": "PierluigiMerico",
+                "location": "NY - London - Rome - HK",
+                "description": "EURTOWER GROUP CEO and Owner. Oil&Gas Upstream  Advisors, international and independent. A&D. Farm-in and Farm-out.  http://t.co/pvLFSkTuYe",
+                "url": "http://t.co/pvLFSkTuYe",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/pvLFSkTuYe",
+                                "expanded_url": "http://www.eurtowergroup.com",
+                                "display_url": "eurtowergroup.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/pvLFSkTuYe",
+                                "expanded_url": "http://www.eurtowergroup.com",
+                                "display_url": "eurtowergroup.com",
+                                "indices": [
+                                    117,
+                                    139
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 530,
+                "friends_count": 1991,
+                "listed_count": 15,
+                "created_at": "Tue Sep 04 16:06:10 +0000 2012",
+                "favourites_count": 117,
+                "utc_offset": 3600,
+                "time_zone": "London",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 5137,
+                "lang": "it",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/551746899284623360/t__tZTKG_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/551746899284623360/t__tZTKG_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/802703184/1414508260",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "crude",
+                        "indices": [
+                            82,
+                            88
+                        ]
+                    },
+                    {
+                        "text": "oil",
+                        "indices": [
+                            89,
+                            93
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/N3yAU7q9B9",
+                        "expanded_url": "http://www.hellenicshippingnews.com/russia-says-chooses-trading-firms-to-deal-in-iranian-oil/",
+                        "display_url": "hellenicshippingnews.com/russia-says-ch…",
+                        "indices": [
+                            59,
+                            81
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "crude",
+                    "indices": [
+                        103,
+                        109
+                    ]
+                },
+                {
+                    "text": "oil",
+                    "indices": [
+                        110,
+                        114
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "PierluigiMerico",
+                    "name": "Pierluigi Merico",
+                    "id": 802703184,
+                    "id_str": "802703184",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "http://t.co/N3yAU7q9B9",
+                    "expanded_url": "http://www.hellenicshippingnews.com/russia-says-chooses-trading-firms-to-deal-in-iranian-oil/",
+                    "display_url": "hellenicshippingnews.com/russia-says-ch…",
+                    "indices": [
+                        80,
+                        102
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jun 25 16:51:04 +0000 2015",
+        "id": 614113589323018200,
+        "id_str": "614113589323018240",
+        "text": "#Uber for the super-rich? Rise is an app for sharing a private jet http://t.co/Wzim5MGekW #travel http://t.co/IL5LAvFPui",
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 12874852,
+            "id_str": "12874852",
+            "name": "Wellbelove",
+            "screen_name": "wellbelove",
+            "location": "Clapham, London",
+            "description": "Frequent smiler, marketer, digital/social specialist, presenter, speaker, gadget geek, Lambeth councillor, former Mayor and Parliamentary candidate.",
+            "url": "http://t.co/kmEWhtSsKq",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/kmEWhtSsKq",
+                            "expanded_url": "http://about.me/wellbelove",
+                            "display_url": "about.me/wellbelove",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 326727,
+            "friends_count": 210493,
+            "listed_count": 2986,
+            "created_at": "Wed Jan 30 14:38:14 +0000 2008",
+            "favourites_count": 1802,
+            "utc_offset": 3600,
+            "time_zone": "London",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 19471,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/533883335/towerviewlondon.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/533883335/towerviewlondon.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/597333094757195776/4-mSBuyc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/597333094757195776/4-mSBuyc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/12874852/1423931700",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "D8D9DF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Uber",
+                    "indices": [
+                        0,
+                        5
+                    ]
+                },
+                {
+                    "text": "travel",
+                    "indices": [
+                        90,
+                        97
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "http://t.co/Wzim5MGekW",
+                    "expanded_url": "http://j.mp/1HfgdYH",
+                    "display_url": "j.mp/1HfgdYH",
+                    "indices": [
+                        67,
+                        89
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 614113589226508300,
+                    "id_str": "614113589226508288",
+                    "indices": [
+                        98,
+                        120
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CIXFDkGWEAAgQq2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CIXFDkGWEAAgQq2.jpg",
+                    "url": "http://t.co/IL5LAvFPui",
+                    "display_url": "pic.twitter.com/IL5LAvFPui",
+                    "expanded_url": "http://twitter.com/wellbelove/status/614113589323018240/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 600,
+                            "h": 399,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 615,
+                            "h": 409,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 226,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 614113589226508300,
+                    "id_str": "614113589226508288",
+                    "indices": [
+                        98,
+                        120
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CIXFDkGWEAAgQq2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CIXFDkGWEAAgQq2.jpg",
+                    "url": "http://t.co/IL5LAvFPui",
+                    "display_url": "pic.twitter.com/IL5LAvFPui",
+                    "expanded_url": "http://twitter.com/wellbelove/status/614113589323018240/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 600,
+                            "h": 399,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 615,
+                            "h": 409,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 226,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jun 25 16:46:17 +0000 2015",
+        "id": 614112388539879400,
+        "id_str": "614112388539879424",
+        "text": "RT @PierluigiMerico: The world is awash in oil - is Canada making it worse? - http://t.co/zgk4fFjOvV #crude #oil",
+        "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 896914057,
+            "id_str": "896914057",
+            "name": "Crude Oil Inventory",
+            "screen_name": "Oilinventory",
+            "location": "",
+            "description": "Gas, oil, petroleum and energy is of interest. In particular Crude Oil Inventory",
+            "url": "http://t.co/siHXsefS9k",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/siHXsefS9k",
+                            "expanded_url": "http://crude-oil-prices.net/",
+                            "display_url": "crude-oil-prices.net",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2240,
+            "friends_count": 1589,
+            "listed_count": 55,
+            "created_at": "Mon Oct 22 06:53:32 +0000 2012",
+            "favourites_count": 36,
+            "utc_offset": 10800,
+            "time_zone": "Athens",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 12604,
+            "lang": "no",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2749358108/eb9d6229ee87f25aab85bce18b1a1224_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2749358108/eb9d6229ee87f25aab85bce18b1a1224_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/896914057/1386005083",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jun 25 16:41:28 +0000 2015",
+            "id": 614111174318231600,
+            "id_str": "614111174318231552",
+            "text": "The world is awash in oil - is Canada making it worse? - http://t.co/zgk4fFjOvV #crude #oil",
+            "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 802703184,
+                "id_str": "802703184",
+                "name": "Pierluigi Merico",
+                "screen_name": "PierluigiMerico",
+                "location": "NY - London - Rome - HK",
+                "description": "EURTOWER GROUP CEO and Owner. Oil&Gas Upstream  Advisors, international and independent. A&D. Farm-in and Farm-out.  http://t.co/pvLFSkTuYe",
+                "url": "http://t.co/pvLFSkTuYe",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/pvLFSkTuYe",
+                                "expanded_url": "http://www.eurtowergroup.com",
+                                "display_url": "eurtowergroup.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/pvLFSkTuYe",
+                                "expanded_url": "http://www.eurtowergroup.com",
+                                "display_url": "eurtowergroup.com",
+                                "indices": [
+                                    117,
+                                    139
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 530,
+                "friends_count": 1991,
+                "listed_count": 15,
+                "created_at": "Tue Sep 04 16:06:10 +0000 2012",
+                "favourites_count": 117,
+                "utc_offset": 3600,
+                "time_zone": "London",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 5137,
+                "lang": "it",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/551746899284623360/t__tZTKG_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/551746899284623360/t__tZTKG_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/802703184/1414508260",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "crude",
+                        "indices": [
+                            80,
+                            86
+                        ]
+                    },
+                    {
+                        "text": "oil",
+                        "indices": [
+                            87,
+                            91
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/zgk4fFjOvV",
+                        "expanded_url": "http://www.hellenicshippingnews.com/the-world-is-awash-in-oil-is-canada-making-it-worse/",
+                        "display_url": "hellenicshippingnews.com/the-world-is-a…",
+                        "indices": [
+                            57,
+                            79
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "crude",
+                    "indices": [
+                        101,
+                        107
+                    ]
+                },
+                {
+                    "text": "oil",
+                    "indices": [
+                        108,
+                        112
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "PierluigiMerico",
+                    "name": "Pierluigi Merico",
+                    "id": 802703184,
+                    "id_str": "802703184",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "http://t.co/zgk4fFjOvV",
+                    "expanded_url": "http://www.hellenicshippingnews.com/the-world-is-awash-in-oil-is-canada-making-it-worse/",
+                    "display_url": "hellenicshippingnews.com/the-world-is-a…",
+                    "indices": [
+                        78,
+                        100
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jun 25 16:46:17 +0000 2015",
+        "id": 614112387688452100,
+        "id_str": "614112387688452096",
+        "text": "RT @PierluigiMerico: Oil prices slip as Greece and Iran rattle market - http://www .cnbc.com/id/102786355 #crude #oil",
+        "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 896914057,
+            "id_str": "896914057",
+            "name": "Crude Oil Inventory",
+            "screen_name": "Oilinventory",
+            "location": "",
+            "description": "Gas, oil, petroleum and energy is of interest. In particular Crude Oil Inventory",
+            "url": "http://t.co/siHXsefS9k",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/siHXsefS9k",
+                            "expanded_url": "http://crude-oil-prices.net/",
+                            "display_url": "crude-oil-prices.net",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2240,
+            "friends_count": 1589,
+            "listed_count": 55,
+            "created_at": "Mon Oct 22 06:53:32 +0000 2012",
+            "favourites_count": 36,
+            "utc_offset": 10800,
+            "time_zone": "Athens",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 12604,
+            "lang": "no",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2749358108/eb9d6229ee87f25aab85bce18b1a1224_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2749358108/eb9d6229ee87f25aab85bce18b1a1224_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/896914057/1386005083",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jun 25 16:39:26 +0000 2015",
+            "id": 614110664639029200,
+            "id_str": "614110664639029248",
+            "text": "Oil prices slip as Greece and Iran rattle market - http://www .cnbc.com/id/102786355 #crude #oil",
+            "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 802703184,
+                "id_str": "802703184",
+                "name": "Pierluigi Merico",
+                "screen_name": "PierluigiMerico",
+                "location": "NY - London - Rome - HK",
+                "description": "EURTOWER GROUP CEO and Owner. Oil&Gas Upstream  Advisors, international and independent. A&D. Farm-in and Farm-out.  http://t.co/pvLFSkTuYe",
+                "url": "http://t.co/pvLFSkTuYe",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/pvLFSkTuYe",
+                                "expanded_url": "http://www.eurtowergroup.com",
+                                "display_url": "eurtowergroup.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/pvLFSkTuYe",
+                                "expanded_url": "http://www.eurtowergroup.com",
+                                "display_url": "eurtowergroup.com",
+                                "indices": [
+                                    117,
+                                    139
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 530,
+                "friends_count": 1991,
+                "listed_count": 15,
+                "created_at": "Tue Sep 04 16:06:10 +0000 2012",
+                "favourites_count": 117,
+                "utc_offset": 3600,
+                "time_zone": "London",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 5137,
+                "lang": "it",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/551746899284623360/t__tZTKG_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/551746899284623360/t__tZTKG_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/802703184/1414508260",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "crude",
+                        "indices": [
+                            85,
+                            91
+                        ]
+                    },
+                    {
+                        "text": "oil",
+                        "indices": [
+                            92,
+                            96
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "crude",
+                    "indices": [
+                        106,
+                        112
+                    ]
+                },
+                {
+                    "text": "oil",
+                    "indices": [
+                        113,
+                        117
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "PierluigiMerico",
+                    "name": "Pierluigi Merico",
+                    "id": 802703184,
+                    "id_str": "802703184",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jun 25 16:46:17 +0000 2015",
+        "id": 614112386824425500,
+        "id_str": "614112386824425472",
+        "text": "RT @PierluigiMerico: What Would A Saudi-Russian Partnership Mean For World Energy? - http://t.co/ag7l9YD6er #crude #oil",
+        "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 896914057,
+            "id_str": "896914057",
+            "name": "Crude Oil Inventory",
+            "screen_name": "Oilinventory",
+            "location": "",
+            "description": "Gas, oil, petroleum and energy is of interest. In particular Crude Oil Inventory",
+            "url": "http://t.co/siHXsefS9k",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/siHXsefS9k",
+                            "expanded_url": "http://crude-oil-prices.net/",
+                            "display_url": "crude-oil-prices.net",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2240,
+            "friends_count": 1589,
+            "listed_count": 55,
+            "created_at": "Mon Oct 22 06:53:32 +0000 2012",
+            "favourites_count": 36,
+            "utc_offset": 10800,
+            "time_zone": "Athens",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 12604,
+            "lang": "no",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2749358108/eb9d6229ee87f25aab85bce18b1a1224_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2749358108/eb9d6229ee87f25aab85bce18b1a1224_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/896914057/1386005083",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jun 25 16:38:11 +0000 2015",
+            "id": 614110347650330600,
+            "id_str": "614110347650330625",
+            "text": "What Would A Saudi-Russian Partnership Mean For World Energy? - http://t.co/ag7l9YD6er #crude #oil",
+            "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 802703184,
+                "id_str": "802703184",
+                "name": "Pierluigi Merico",
+                "screen_name": "PierluigiMerico",
+                "location": "NY - London - Rome - HK",
+                "description": "EURTOWER GROUP CEO and Owner. Oil&Gas Upstream  Advisors, international and independent. A&D. Farm-in and Farm-out.  http://t.co/pvLFSkTuYe",
+                "url": "http://t.co/pvLFSkTuYe",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/pvLFSkTuYe",
+                                "expanded_url": "http://www.eurtowergroup.com",
+                                "display_url": "eurtowergroup.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/pvLFSkTuYe",
+                                "expanded_url": "http://www.eurtowergroup.com",
+                                "display_url": "eurtowergroup.com",
+                                "indices": [
+                                    117,
+                                    139
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 530,
+                "friends_count": 1991,
+                "listed_count": 15,
+                "created_at": "Tue Sep 04 16:06:10 +0000 2012",
+                "favourites_count": 117,
+                "utc_offset": 3600,
+                "time_zone": "London",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 5137,
+                "lang": "it",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/551746899284623360/t__tZTKG_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/551746899284623360/t__tZTKG_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/802703184/1414508260",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "crude",
+                        "indices": [
+                            87,
+                            93
+                        ]
+                    },
+                    {
+                        "text": "oil",
+                        "indices": [
+                            94,
+                            98
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/ag7l9YD6er",
+                        "expanded_url": "http://oilprice.com/Energy/Crude-Oil/What-Would-A-Saudi-Russian-Partnership-Mean-For-World-Energy.html",
+                        "display_url": "oilprice.com/Energy/Crude-O…",
+                        "indices": [
+                            64,
+                            86
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "crude",
+                    "indices": [
+                        108,
+                        114
+                    ]
+                },
+                {
+                    "text": "oil",
+                    "indices": [
+                        115,
+                        119
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "PierluigiMerico",
+                    "name": "Pierluigi Merico",
+                    "id": 802703184,
+                    "id_str": "802703184",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "http://t.co/ag7l9YD6er",
+                    "expanded_url": "http://oilprice.com/Energy/Crude-Oil/What-Would-A-Saudi-Russian-Partnership-Mean-For-World-Energy.html",
+                    "display_url": "oilprice.com/Energy/Crude-O…",
+                    "indices": [
+                        85,
+                        107
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jun 25 16:34:05 +0000 2015",
+        "id": 614109318045134800,
+        "id_str": "614109318045134848",
+        "text": "RT @DonorsForum: Let's reimagine a sector that is bold and operating from a position of strength. #mcon #socialimpactsector",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 151903568,
+            "id_str": "151903568",
+            "name": "Jon M",
+            "screen_name": "ThinDifference",
+            "location": "Dallas, TX",
+            "description": "Generational myths create leadership gaps. Bring leaders together to share insights, empowering Millennials and connecting by purpose. http://t.co/S6VYYXPbpL",
+            "url": "http://t.co/YpuOnrgg2R",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/YpuOnrgg2R",
+                            "expanded_url": "http://bit.ly/Activate_Leadership",
+                            "display_url": "bit.ly/Activate_Leade…",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/S6VYYXPbpL",
+                            "expanded_url": "http://www.thindifference.com",
+                            "display_url": "thindifference.com",
+                            "indices": [
+                                135,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 32225,
+            "friends_count": 21919,
+            "listed_count": 918,
+            "created_at": "Fri Jun 04 15:02:06 +0000 2010",
+            "favourites_count": 6169,
+            "utc_offset": -10800,
+            "time_zone": "Atlantic Time (Canada)",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 59978,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "127CBD",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000494031964/9a686495c87a05f881f064e496ae4b72_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000494031964/9a686495c87a05f881f064e496ae4b72_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/151903568/1424747923",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DAE2E6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jun 25 16:33:24 +0000 2015",
+            "id": 614109144904298500,
+            "id_str": "614109144904298496",
+            "text": "Let's reimagine a sector that is bold and operating from a position of strength. #mcon #socialimpactsector",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 17276646,
+                "id_str": "17276646",
+                "name": "Donors Forum (IL)",
+                "screen_name": "DonorsForum",
+                "location": "Illinois",
+                "description": "We're the hub for philanthropy + nonprofits in Illinois, leveraging our collective power to improve lives + strengthen communities.",
+                "url": "http://t.co/6TRJbCKezH",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/6TRJbCKezH",
+                                "expanded_url": "http://www.DonorsForum.org",
+                                "display_url": "DonorsForum.org",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 5516,
+                "friends_count": 2518,
+                "listed_count": 280,
+                "created_at": "Mon Nov 10 00:27:00 +0000 2008",
+                "favourites_count": 344,
+                "utc_offset": -18000,
+                "time_zone": "Central Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 4263,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F1F1F1",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/137083804/Twitter-BG_NEW_1280x1024_copy_copy.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/137083804/Twitter-BG_NEW_1280x1024_copy_copy.jpg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/552192876071751680/5-tl_f9b_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/552192876071751680/5-tl_f9b_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/17276646/1427202200",
+                "profile_link_color": "9266CC",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "E8E9C4",
+                "profile_text_color": "492F92",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 3,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "mcon",
+                        "indices": [
+                            81,
+                            86
+                        ]
+                    },
+                    {
+                        "text": "socialimpactsector",
+                        "indices": [
+                            87,
+                            106
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "mcon",
+                    "indices": [
+                        98,
+                        103
+                    ]
+                },
+                {
+                    "text": "socialimpactsector",
+                    "indices": [
+                        104,
+                        123
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DonorsForum",
+                    "name": "Donors Forum (IL)",
+                    "id": 17276646,
+                    "id_str": "17276646",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jun 25 16:28:49 +0000 2015",
+        "id": 614107990623285200,
+        "id_str": "614107990623285248",
+        "text": "Nearly 3 years have passed since #Marikana Massacre, instead of growing as a nation we have been torn apart by the lack of will todo right!",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 139020999,
+            "id_str": "139020999",
+            "name": "Jonathan Levin",
+            "screen_name": "Gawiesnr",
+            "location": "Cape Town",
+            "description": "My outlook on the world is funnier than it actually is!! If you ain't selling I may follow back. Typos are very deliberate! :) All photos mine except RT 1's :)",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 60288,
+            "friends_count": 38349,
+            "listed_count": 319,
+            "created_at": "Sat May 01 09:13:54 +0000 2010",
+            "favourites_count": 24740,
+            "utc_offset": 7200,
+            "time_zone": "Pretoria",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 4516,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/612595665886162944/DDXNzaXK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/612595665886162944/DDXNzaXK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/139020999/1432728211",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 9,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Marikana",
+                    "indices": [
+                        33,
+                        42
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jun 25 16:28:47 +0000 2015",
+        "id": 614107983539236900,
+        "id_str": "614107983539236864",
+        "text": "Trust. Give opportunity. The peanut-and-butter in creating engaging, flavorful organizational culture! #MCON  https://t.co/LSPIntrrIO",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 151903568,
+            "id_str": "151903568",
+            "name": "Jon M",
+            "screen_name": "ThinDifference",
+            "location": "Dallas, TX",
+            "description": "Generational myths create leadership gaps. Bring leaders together to share insights, empowering Millennials and connecting by purpose. http://t.co/S6VYYXPbpL",
+            "url": "http://t.co/YpuOnrgg2R",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/YpuOnrgg2R",
+                            "expanded_url": "http://bit.ly/Activate_Leadership",
+                            "display_url": "bit.ly/Activate_Leade…",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/S6VYYXPbpL",
+                            "expanded_url": "http://www.thindifference.com",
+                            "display_url": "thindifference.com",
+                            "indices": [
+                                135,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 32225,
+            "friends_count": 21919,
+            "listed_count": 918,
+            "created_at": "Fri Jun 04 15:02:06 +0000 2010",
+            "favourites_count": 6169,
+            "utc_offset": -10800,
+            "time_zone": "Atlantic Time (Canada)",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 59978,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "127CBD",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000494031964/9a686495c87a05f881f064e496ae4b72_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000494031964/9a686495c87a05f881f064e496ae4b72_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/151903568/1424747923",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DAE2E6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 614107323754262500,
+        "quoted_status_id_str": "614107323754262529",
+        "quoted_status": {
+            "created_at": "Thu Jun 25 16:26:10 +0000 2015",
+            "id": 614107323754262500,
+            "id_str": "614107323754262529",
+            "text": "\"If we want to give social organizations a chance at success, give your young leaders autonomy. Trust them.\" @EricWeinheimer1 #MCON",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 18189073,
+                "id_str": "18189073",
+                "name": "Achieve",
+                "screen_name": "achieve_consult",
+                "location": "Indianapolis / West Palm Beach",
+                "description": "A national research and creative agency for causes. Hosts of #MCON & authors of Millennial Impact Report. A division of @forteweb.",
+                "url": "http://t.co/Lb54b14geA",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/Lb54b14geA",
+                                "expanded_url": "http://www.achieveguidance.com",
+                                "display_url": "achieveguidance.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3233,
+                "friends_count": 2397,
+                "listed_count": 210,
+                "created_at": "Wed Dec 17 13:55:03 +0000 2008",
+                "favourites_count": 377,
+                "utc_offset": -14400,
+                "time_zone": "Indiana (East)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 7389,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/469844112070303747/ztnOCvUT.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/469844112070303747/ztnOCvUT.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/565551438260998144/grH9lVWT_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/565551438260998144/grH9lVWT_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/18189073/1429302071",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 5,
+            "favorite_count": 2,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "MCON",
+                        "indices": [
+                            126,
+                            131
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "EricWeinheimer1",
+                        "name": "Eric Weinheimer",
+                        "id": 386616222,
+                        "id_str": "386616222",
+                        "indices": [
+                            109,
+                            125
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "MCON",
+                    "indices": [
+                        103,
+                        108
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/LSPIntrrIO",
+                    "expanded_url": "https://twitter.com/achieve_consult/status/614107323754262529",
+                    "display_url": "twitter.com/achieve_consul…",
+                    "indices": [
+                        110,
+                        133
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jun 25 16:27:45 +0000 2015",
+        "id": 614107724968796200,
+        "id_str": "614107724968796160",
+        "text": "RT @ShaleIntel: My best RTs this week came from: @Oilinventory @FernandeVanakin @ddroushiotis #thankSAll Who were yours? http://t.co/uSZdVe…",
+        "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 896914057,
+            "id_str": "896914057",
+            "name": "Crude Oil Inventory",
+            "screen_name": "Oilinventory",
+            "location": "",
+            "description": "Gas, oil, petroleum and energy is of interest. In particular Crude Oil Inventory",
+            "url": "http://t.co/siHXsefS9k",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/siHXsefS9k",
+                            "expanded_url": "http://crude-oil-prices.net/",
+                            "display_url": "crude-oil-prices.net",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2240,
+            "friends_count": 1589,
+            "listed_count": 55,
+            "created_at": "Mon Oct 22 06:53:32 +0000 2012",
+            "favourites_count": 36,
+            "utc_offset": 10800,
+            "time_zone": "Athens",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 12604,
+            "lang": "no",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2749358108/eb9d6229ee87f25aab85bce18b1a1224_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2749358108/eb9d6229ee87f25aab85bce18b1a1224_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/896914057/1386005083",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jun 25 16:21:47 +0000 2015",
+            "id": 614106222845894700,
+            "id_str": "614106222845894656",
+            "text": "My best RTs this week came from: @Oilinventory @FernandeVanakin @ddroushiotis #thankSAll Who were yours? http://t.co/uSZdVepHzF",
+            "source": "<a href=\"https://sumall.com/\" rel=\"nofollow\">SumAll Authentication</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1963455463,
+                "id_str": "1963455463",
+                "name": "Charles Constantinou",
+                "screen_name": "ShaleIntel",
+                "location": "New York, NY",
+                "description": "Chief of Energy and Natural Resources Programme UN. Value-added analysis of #Petroleum & #Economics. Director of Investment Research @ Shale Intelligence, LLC",
+                "url": "http://t.co/jsTmMOPV44",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/jsTmMOPV44",
+                                "expanded_url": "http://www.ShaleIntelligence.com",
+                                "display_url": "ShaleIntelligence.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1838,
+                "friends_count": 1780,
+                "listed_count": 69,
+                "created_at": "Tue Oct 15 21:26:35 +0000 2013",
+                "favourites_count": 3040,
+                "utc_offset": -14400,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 1587,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095433072/084019aa49eb1244168ca202e0be88ad.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095433072/084019aa49eb1244168ca202e0be88ad.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/490035707822354432/ueaSTqZl_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/490035707822354432/ueaSTqZl_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1963455463/1382727329",
+                "profile_link_color": "00B34E",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "thankSAll",
+                        "indices": [
+                            78,
+                            88
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Oilinventory",
+                        "name": "Crude Oil Inventory",
+                        "id": 896914057,
+                        "id_str": "896914057",
+                        "indices": [
+                            33,
+                            46
+                        ]
+                    },
+                    {
+                        "screen_name": "FernandeVanakin",
+                        "name": "Binary Signals",
+                        "id": 2818198537,
+                        "id_str": "2818198537",
+                        "indices": [
+                            47,
+                            63
+                        ]
+                    },
+                    {
+                        "screen_name": "ddroushiotis",
+                        "name": "Dennis Droushiotis",
+                        "id": 1295616248,
+                        "id_str": "1295616248",
+                        "indices": [
+                            64,
+                            77
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "http://t.co/uSZdVepHzF",
+                        "expanded_url": "http://sumall.com/thankyou",
+                        "display_url": "sumall.com/thankyou",
+                        "indices": [
+                            105,
+                            127
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "thankSAll",
+                    "indices": [
+                        94,
+                        104
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ShaleIntel",
+                    "name": "Charles Constantinou",
+                    "id": 1963455463,
+                    "id_str": "1963455463",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "Oilinventory",
+                    "name": "Crude Oil Inventory",
+                    "id": 896914057,
+                    "id_str": "896914057",
+                    "indices": [
+                        49,
+                        62
+                    ]
+                },
+                {
+                    "screen_name": "FernandeVanakin",
+                    "name": "Binary Signals",
+                    "id": 2818198537,
+                    "id_str": "2818198537",
+                    "indices": [
+                        63,
+                        79
+                    ]
+                },
+                {
+                    "screen_name": "ddroushiotis",
+                    "name": "Dennis Droushiotis",
+                    "id": 1295616248,
+                    "id_str": "1295616248",
+                    "indices": [
+                        80,
+                        93
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "http://t.co/uSZdVepHzF",
+                    "expanded_url": "http://sumall.com/thankyou",
+                    "display_url": "sumall.com/thankyou",
+                    "indices": [
+                        121,
+                        140
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jun 25 16:23:57 +0000 2015",
+        "id": 614106766176088000,
+        "id_str": "614106766176088064",
+        "text": "Passionate about a cause? Join an org that already exists. The market is saturated. Don't start a NEW nonprofit. @EricWeinheimer1 #MCON",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 151903568,
+            "id_str": "151903568",
+            "name": "Jon M",
+            "screen_name": "ThinDifference",
+            "location": "Dallas, TX",
+            "description": "Generational myths create leadership gaps. Bring leaders together to share insights, empowering Millennials and connecting by purpose. http://t.co/S6VYYXPbpL",
+            "url": "http://t.co/YpuOnrgg2R",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/YpuOnrgg2R",
+                            "expanded_url": "http://bit.ly/Activate_Leadership",
+                            "display_url": "bit.ly/Activate_Leade…",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/S6VYYXPbpL",
+                            "expanded_url": "http://www.thindifference.com",
+                            "display_url": "thindifference.com",
+                            "indices": [
+                                135,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 32225,
+            "friends_count": 21919,
+            "listed_count": 918,
+            "created_at": "Fri Jun 04 15:02:06 +0000 2010",
+            "favourites_count": 6169,
+            "utc_offset": -10800,
+            "time_zone": "Atlantic Time (Canada)",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 59978,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "127CBD",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000494031964/9a686495c87a05f881f064e496ae4b72_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000494031964/9a686495c87a05f881f064e496ae4b72_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/151903568/1424747923",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DAE2E6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "MCON",
+                    "indices": [
+                        130,
+                        135
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "EricWeinheimer1",
+                    "name": "Eric Weinheimer",
+                    "id": 386616222,
+                    "id_str": "386616222",
+                    "indices": [
+                        113,
+                        129
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jun 25 16:22:02 +0000 2015",
+        "id": 614106286020534300,
+        "id_str": "614106286020534272",
+        "text": "RT @BHS_UK: Love @hollywills's pic of her sister's fab pad + our HOME lamp from Holly's BHS collection: http://t.co/TqwAyCd42Z https://t.co…",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 20508222,
+            "id_str": "20508222",
+            "name": "Holly Willoughby",
+            "screen_name": "hollywills",
+            "location": "London",
+            "description": "I was introduced to this by a 'twitter legend!",
+            "url": "http://t.co/4Hlzwk6off",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/4Hlzwk6off",
+                            "expanded_url": "http://www.officialhollywilloughby.com",
+                            "display_url": "officialhollywilloughby.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5865359,
+            "friends_count": 243,
+            "listed_count": 6770,
+            "created_at": "Tue Feb 10 11:50:59 +0000 2009",
+            "favourites_count": 4,
+            "utc_offset": 3600,
+            "time_zone": "London",
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 4677,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F489BD",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/7218269/hollyTwitter2-1.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/7218269/hollyTwitter2-1.jpg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/76992094/DSC01831_normal.JPG",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/76992094/DSC01831_normal.JPG",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "F489BD",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jun 24 13:35:42 +0000 2015",
+            "id": 613702038992592900,
+            "id_str": "613702038992592900",
+            "text": "Love @hollywills's pic of her sister's fab pad + our HOME lamp from Holly's BHS collection: http://t.co/TqwAyCd42Z https://t.co/vQ6IIsMmMx",
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 246817496,
+                "id_str": "246817496",
+                "name": "BHS UK",
+                "screen_name": "BHS_UK",
+                "location": "",
+                "description": "Welcome to the official BHS Twitter page! Keep up-to-date with all the latest offers, news, trends and much more!",
+                "url": "http://t.co/xlP25h3alV",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/xlP25h3alV",
+                                "expanded_url": "http://www.bhs.co.uk/",
+                                "display_url": "bhs.co.uk",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 21679,
+                "friends_count": 2719,
+                "listed_count": 130,
+                "created_at": "Thu Feb 03 14:47:20 +0000 2011",
+                "favourites_count": 44,
+                "utc_offset": 3600,
+                "time_zone": "London",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 8038,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/473471362560823296/AF2zbF0g.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/473471362560823296/AF2zbF0g.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/552033905503522819/aNIfaRIR_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/552033905503522819/aNIfaRIR_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/246817496/1434621629",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "quoted_status_id": 613660119021277200,
+            "quoted_status_id_str": "613660119021277184",
+            "quoted_status": {
+                "created_at": "Wed Jun 24 10:49:08 +0000 2015",
+                "id": 613660119021277200,
+                "id_str": "613660119021277184",
+                "text": "My sister @LadyWilloughby beautiful home... Complete with my @BHS_UK 'home' light! #gorgeous \nhttp://t.co/EGzBmw7Snb http://t.co/bmpxaJmSVb",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 20508222,
+                    "id_str": "20508222",
+                    "name": "Holly Willoughby",
+                    "screen_name": "hollywills",
+                    "location": "London",
+                    "description": "I was introduced to this by a 'twitter legend!",
+                    "url": "http://t.co/4Hlzwk6off",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/4Hlzwk6off",
+                                    "expanded_url": "http://www.officialhollywilloughby.com",
+                                    "display_url": "officialhollywilloughby.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 5865359,
+                    "friends_count": 243,
+                    "listed_count": 6770,
+                    "created_at": "Tue Feb 10 11:50:59 +0000 2009",
+                    "favourites_count": 4,
+                    "utc_offset": 3600,
+                    "time_zone": "London",
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 4677,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F489BD",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/7218269/hollyTwitter2-1.jpg",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/7218269/hollyTwitter2-1.jpg",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/76992094/DSC01831_normal.JPG",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/76992094/DSC01831_normal.JPG",
+                    "profile_link_color": "0099B9",
+                    "profile_sidebar_border_color": "5ED4DC",
+                    "profile_sidebar_fill_color": "F489BD",
+                    "profile_text_color": "3C3940",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": true,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 8,
+                "favorite_count": 178,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "gorgeous",
+                            "indices": [
+                                83,
+                                92
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "LadyWilloughby",
+                            "name": "Kelly Willoughby",
+                            "id": 20674115,
+                            "id_str": "20674115",
+                            "indices": [
+                                10,
+                                25
+                            ]
+                        },
+                        {
+                            "screen_name": "BHS_UK",
+                            "name": "BHS UK",
+                            "id": 246817496,
+                            "id_str": "246817496",
+                            "indices": [
+                                61,
+                                68
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "http://t.co/EGzBmw7Snb",
+                            "expanded_url": "http://m.bhs.co.uk/h5/product?productId=17884790",
+                            "display_url": "m.bhs.co.uk/h5/product?pro…",
+                            "indices": [
+                                94,
+                                116
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id": 613660110099980300,
+                            "id_str": "613660110099980288",
+                            "indices": [
+                                117,
+                                139
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/CIQonmtWIAAbqY9.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/CIQonmtWIAAbqY9.jpg",
+                            "url": "http://t.co/bmpxaJmSVb",
+                            "display_url": "pic.twitter.com/bmpxaJmSVb",
+                            "expanded_url": "http://twitter.com/hollywills/status/613660119021277184/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "w": 340,
+                                    "h": 453,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 600,
+                                    "h": 800,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 768,
+                                    "h": 1024,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 613660110099980300,
+                            "id_str": "613660110099980288",
+                            "indices": [
+                                117,
+                                139
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/CIQonmtWIAAbqY9.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/CIQonmtWIAAbqY9.jpg",
+                            "url": "http://t.co/bmpxaJmSVb",
+                            "display_url": "pic.twitter.com/bmpxaJmSVb",
+                            "expanded_url": "http://twitter.com/hollywills/status/613660119021277184/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "w": 340,
+                                    "h": 453,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 600,
+                                    "h": 800,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 768,
+                                    "h": 1024,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "possibly_sensitive_appealable": false,
+                "lang": "en"
+            },
+            "is_quote_status": true,
+            "retweet_count": 4,
+            "favorite_count": 12,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "hollywills",
+                        "name": "Holly Willoughby",
+                        "id": 20508222,
+                        "id_str": "20508222",
+                        "indices": [
+                            5,
+                            16
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "http://t.co/TqwAyCd42Z",
+                        "expanded_url": "http://bit.ly/1IyykVY",
+                        "display_url": "bit.ly/1IyykVY",
+                        "indices": [
+                            92,
+                            114
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/vQ6IIsMmMx",
+                        "expanded_url": "https://twitter.com/hollywills/status/613660119021277184",
+                        "display_url": "twitter.com/hollywills/sta…",
+                        "indices": [
+                            115,
+                            138
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BHS_UK",
+                    "name": "BHS UK",
+                    "id": 246817496,
+                    "id_str": "246817496",
+                    "indices": [
+                        3,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "hollywills",
+                    "name": "Holly Willoughby",
+                    "id": 20508222,
+                    "id_str": "20508222",
+                    "indices": [
+                        17,
+                        28
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "http://t.co/TqwAyCd42Z",
+                    "expanded_url": "http://bit.ly/1IyykVY",
+                    "display_url": "bit.ly/1IyykVY",
+                    "indices": [
+                        104,
+                        126
+                    ]
+                },
+                {
+                    "url": "https://t.co/vQ6IIsMmMx",
+                    "expanded_url": "https://twitter.com/hollywills/status/613660119021277184",
+                    "display_url": "twitter.com/hollywills/sta…",
+                    "indices": [
+                        139,
+                        140
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jun 25 16:19:14 +0000 2015",
+        "id": 614105580073001000,
+        "id_str": "614105580073000961",
+        "text": "Sharing or purpose at #MCON thanks to @ConsciousCoMag | Connecting generations to close the leadership gap! http://t.co/M5HdSbzGcM",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 151903568,
+            "id_str": "151903568",
+            "name": "Jon M",
+            "screen_name": "ThinDifference",
+            "location": "Dallas, TX",
+            "description": "Generational myths create leadership gaps. Bring leaders together to share insights, empowering Millennials and connecting by purpose. http://t.co/S6VYYXPbpL",
+            "url": "http://t.co/YpuOnrgg2R",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/YpuOnrgg2R",
+                            "expanded_url": "http://bit.ly/Activate_Leadership",
+                            "display_url": "bit.ly/Activate_Leade…",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/S6VYYXPbpL",
+                            "expanded_url": "http://www.thindifference.com",
+                            "display_url": "thindifference.com",
+                            "indices": [
+                                135,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 32225,
+            "friends_count": 21919,
+            "listed_count": 918,
+            "created_at": "Fri Jun 04 15:02:06 +0000 2010",
+            "favourites_count": 6169,
+            "utc_offset": -10800,
+            "time_zone": "Atlantic Time (Canada)",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 59978,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "127CBD",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000494031964/9a686495c87a05f881f064e496ae4b72_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000494031964/9a686495c87a05f881f064e496ae4b72_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/151903568/1424747923",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DAE2E6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "MCON",
+                    "indices": [
+                        22,
+                        27
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ConsciousCoMag",
+                    "name": "Conscious Co Mag",
+                    "id": 2601976076,
+                    "id_str": "2601976076",
+                    "indices": [
+                        38,
+                        53
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 614105576876982300,
+                    "id_str": "614105576876982273",
+                    "indices": [
+                        108,
+                        130
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CIW9xLxWwAEJY_w.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CIW9xLxWwAEJY_w.jpg",
+                    "url": "http://t.co/M5HdSbzGcM",
+                    "display_url": "pic.twitter.com/M5HdSbzGcM",
+                    "expanded_url": "http://twitter.com/ThinDifference/status/614105580073000961/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 259,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 489,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 458,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 614105576876982300,
+                    "id_str": "614105576876982273",
+                    "indices": [
+                        108,
+                        130
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CIW9xLxWwAEJY_w.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CIW9xLxWwAEJY_w.jpg",
+                    "url": "http://t.co/M5HdSbzGcM",
+                    "display_url": "pic.twitter.com/M5HdSbzGcM",
+                    "expanded_url": "http://twitter.com/ThinDifference/status/614105580073000961/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 259,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 489,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 458,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jun 25 16:15:53 +0000 2015",
+        "id": 614104736661405700,
+        "id_str": "614104736661405696",
+        "text": "Contributed Tweets for @Oilinventory are delivered by @RoundTeam https://t.co/J8FEedIafs",
+        "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 896914057,
+            "id_str": "896914057",
+            "name": "Crude Oil Inventory",
+            "screen_name": "Oilinventory",
+            "location": "",
+            "description": "Gas, oil, petroleum and energy is of interest. In particular Crude Oil Inventory",
+            "url": "http://t.co/siHXsefS9k",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/siHXsefS9k",
+                            "expanded_url": "http://crude-oil-prices.net/",
+                            "display_url": "crude-oil-prices.net",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2240,
+            "friends_count": 1589,
+            "listed_count": 55,
+            "created_at": "Mon Oct 22 06:53:32 +0000 2012",
+            "favourites_count": 36,
+            "utc_offset": 10800,
+            "time_zone": "Athens",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 12604,
+            "lang": "no",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2749358108/eb9d6229ee87f25aab85bce18b1a1224_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2749358108/eb9d6229ee87f25aab85bce18b1a1224_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/896914057/1386005083",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Oilinventory",
+                    "name": "Crude Oil Inventory",
+                    "id": 896914057,
+                    "id_str": "896914057",
+                    "indices": [
+                        23,
+                        36
+                    ]
+                },
+                {
+                    "screen_name": "RoundTeam",
+                    "name": "RoundTeam",
+                    "id": 360844323,
+                    "id_str": "360844323",
+                    "indices": [
+                        54,
+                        64
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/J8FEedIafs",
+                    "expanded_url": "https://roundteam.co",
+                    "display_url": "roundteam.co",
+                    "indices": [
+                        65,
+                        88
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jun 25 16:15:52 +0000 2015",
+        "id": 614104732269985800,
+        "id_str": "614104732269985792",
+        "text": "RT @Oildex: Thanks for the retweet @Oilinventory",
+        "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 896914057,
+            "id_str": "896914057",
+            "name": "Crude Oil Inventory",
+            "screen_name": "Oilinventory",
+            "location": "",
+            "description": "Gas, oil, petroleum and energy is of interest. In particular Crude Oil Inventory",
+            "url": "http://t.co/siHXsefS9k",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/siHXsefS9k",
+                            "expanded_url": "http://crude-oil-prices.net/",
+                            "display_url": "crude-oil-prices.net",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2240,
+            "friends_count": 1589,
+            "listed_count": 55,
+            "created_at": "Mon Oct 22 06:53:32 +0000 2012",
+            "favourites_count": 36,
+            "utc_offset": 10800,
+            "time_zone": "Athens",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 12604,
+            "lang": "no",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2749358108/eb9d6229ee87f25aab85bce18b1a1224_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2749358108/eb9d6229ee87f25aab85bce18b1a1224_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/896914057/1386005083",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jun 25 15:54:14 +0000 2015",
+            "id": 614099287639765000,
+            "id_str": "614099287639764992",
+            "text": "Thanks for the retweet @Oilinventory",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 15061863,
+                "id_str": "15061863",
+                "name": "Oildex",
+                "screen_name": "Oildex",
+                "location": "Denver, Colorado",
+                "description": "Premier cloud-based oil and gas accounting software with workflow automation and electronic document exchange. http://t.co/SmOFzoB64C",
+                "url": "http://t.co/dnETNvCTGa",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/dnETNvCTGa",
+                                "expanded_url": "http://www.oildex.com",
+                                "display_url": "oildex.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/SmOFzoB64C",
+                                "expanded_url": "http://www.oildex.com",
+                                "display_url": "oildex.com",
+                                "indices": [
+                                    111,
+                                    133
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 4179,
+                "friends_count": 1985,
+                "listed_count": 58,
+                "created_at": "Mon Jun 09 16:40:10 +0000 2008",
+                "favourites_count": 239,
+                "utc_offset": -21600,
+                "time_zone": "Mountain Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1413,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "3B94D9",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/524609221724078080/EUbI889W.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/524609221724078080/EUbI889W.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/496661077833154560/wjltw_3a_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/496661077833154560/wjltw_3a_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/15061863/1407248227",
+                "profile_link_color": "68A0BA",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DCEDF5",
+                "profile_text_color": "0A0A0A",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Oilinventory",
+                        "name": "Crude Oil Inventory",
+                        "id": 896914057,
+                        "id_str": "896914057",
+                        "indices": [
+                            23,
+                            36
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Oildex",
+                    "name": "Oildex",
+                    "id": 15061863,
+                    "id_str": "15061863",
+                    "indices": [
+                        3,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "Oilinventory",
+                    "name": "Crude Oil Inventory",
+                    "id": 896914057,
+                    "id_str": "896914057",
+                    "indices": [
+                        35,
+                        48
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jun 25 16:13:39 +0000 2015",
+        "id": 614104174473556000,
+        "id_str": "614104174473555968",
+        "text": "RT @UndercoverRec: Top 10 LinkedIn Groups Job Seekers Must Join http://t.co/VCx4Fbnj5z",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 8310782,
+            "id_str": "8310782",
+            "name": "Simply Hired",
+            "screen_name": "SimplyHired",
+            "location": "Sunnyvale, CA, USA",
+            "description": "Run one search on Simply Hired’s job search engine to quickly and easily see all open jobs.",
+            "url": "http://t.co/2LyMrwIGAK",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/2LyMrwIGAK",
+                            "expanded_url": "http://www.simplyhired.com",
+                            "display_url": "simplyhired.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 95774,
+            "friends_count": 29432,
+            "listed_count": 2001,
+            "created_at": "Mon Aug 20 17:30:48 +0000 2007",
+            "favourites_count": 641,
+            "utc_offset": -25200,
+            "time_zone": "Pacific Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8634,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "00A99C",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/167818738/newtwitter-1920x1200-US2.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/167818738/newtwitter-1920x1200-US2.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/344513261570733422/e2808e041fafd0e27a1f961fc518e3fc_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/344513261570733422/e2808e041fafd0e27a1f961fc518e3fc_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/8310782/1423261729",
+            "profile_link_color": "A19C9B",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F2EFF2",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jun 25 11:16:25 +0000 2015",
+            "id": 614029372027236400,
+            "id_str": "614029372027236352",
+            "text": "Top 10 LinkedIn Groups Job Seekers Must Join http://t.co/VCx4Fbnj5z",
+            "source": "<a href=\"http://winthecustomer.com/\" rel=\"nofollow\">Win the Customer</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 87707239,
+                "id_str": "87707239",
+                "name": "Undercover Recruiter",
+                "screen_name": "UndercoverRec",
+                "location": "London, UK",
+                "description": "Probably the Best Recruitment and Career Blog in the World. Brought to you by @LinkHumans. Join us on LinkedIn: http://t.co/Av7igvGUQC",
+                "url": "http://t.co/PLoTsXbRbt",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/PLoTsXbRbt",
+                                "expanded_url": "http://theundercoverrecruiter.com",
+                                "display_url": "theundercoverrecruiter.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/Av7igvGUQC",
+                                "expanded_url": "http://bit.ly/undercoverrecruiter",
+                                "display_url": "bit.ly/undercoverrecr…",
+                                "indices": [
+                                    112,
+                                    134
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 113639,
+                "friends_count": 22003,
+                "listed_count": 2640,
+                "created_at": "Thu Nov 05 15:06:26 +0000 2009",
+                "favourites_count": 392,
+                "utc_offset": 3600,
+                "time_zone": "London",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 91195,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/179375658/fancy.gif",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/179375658/fancy.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000697457190/09a500a475a5c30284ff06d88341c304_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000697457190/09a500a475a5c30284ff06d88341c304_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/87707239/1399558449",
+                "profile_link_color": "FF8C00",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 7,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/VCx4Fbnj5z",
+                        "expanded_url": "http://bit.ly/KtdN8R",
+                        "display_url": "bit.ly/KtdN8R",
+                        "indices": [
+                            45,
+                            67
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "UndercoverRec",
+                    "name": "Undercover Recruiter",
+                    "id": 87707239,
+                    "id_str": "87707239",
+                    "indices": [
+                        3,
+                        17
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "http://t.co/VCx4Fbnj5z",
+                    "expanded_url": "http://bit.ly/KtdN8R",
+                    "display_url": "bit.ly/KtdN8R",
+                    "indices": [
+                        64,
+                        86
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jun 25 16:10:13 +0000 2015",
+        "id": 614103312300941300,
+        "id_str": "614103312300941312",
+        "text": "RT @DonorsForum: How do companies actively engage Millennials in the workplace? The 2015 #Millennial Impact Report was released today http:…",
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 151903568,
+            "id_str": "151903568",
+            "name": "Jon M",
+            "screen_name": "ThinDifference",
+            "location": "Dallas, TX",
+            "description": "Generational myths create leadership gaps. Bring leaders together to share insights, empowering Millennials and connecting by purpose. http://t.co/S6VYYXPbpL",
+            "url": "http://t.co/YpuOnrgg2R",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/YpuOnrgg2R",
+                            "expanded_url": "http://bit.ly/Activate_Leadership",
+                            "display_url": "bit.ly/Activate_Leade…",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/S6VYYXPbpL",
+                            "expanded_url": "http://www.thindifference.com",
+                            "display_url": "thindifference.com",
+                            "indices": [
+                                135,
+                                157
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 32225,
+            "friends_count": 21919,
+            "listed_count": 918,
+            "created_at": "Fri Jun 04 15:02:06 +0000 2010",
+            "favourites_count": 6169,
+            "utc_offset": -10800,
+            "time_zone": "Atlantic Time (Canada)",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 59978,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "127CBD",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000494031964/9a686495c87a05f881f064e496ae4b72_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000494031964/9a686495c87a05f881f064e496ae4b72_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/151903568/1424747923",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DAE2E6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jun 25 00:20:42 +0000 2015",
+            "id": 613864355378135000,
+            "id_str": "613864355378135040",
+            "text": "How do companies actively engage Millennials in the workplace? The 2015 #Millennial Impact Report was released today http://t.co/4OStVjMLCu",
+            "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 17276646,
+                "id_str": "17276646",
+                "name": "Donors Forum (IL)",
+                "screen_name": "DonorsForum",
+                "location": "Illinois",
+                "description": "We're the hub for philanthropy + nonprofits in Illinois, leveraging our collective power to improve lives + strengthen communities.",
+                "url": "http://t.co/6TRJbCKezH",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/6TRJbCKezH",
+                                "expanded_url": "http://www.DonorsForum.org",
+                                "display_url": "DonorsForum.org",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 5516,
+                "friends_count": 2518,
+                "listed_count": 280,
+                "created_at": "Mon Nov 10 00:27:00 +0000 2008",
+                "favourites_count": 344,
+                "utc_offset": -18000,
+                "time_zone": "Central Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 4263,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F1F1F1",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/137083804/Twitter-BG_NEW_1280x1024_copy_copy.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/137083804/Twitter-BG_NEW_1280x1024_copy_copy.jpg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/552192876071751680/5-tl_f9b_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/552192876071751680/5-tl_f9b_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/17276646/1427202200",
+                "profile_link_color": "9266CC",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "E8E9C4",
+                "profile_text_color": "492F92",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Millennial",
+                        "indices": [
+                            72,
+                            83
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/4OStVjMLCu",
+                        "expanded_url": "http://www.themillennialimpact.com/research",
+                        "display_url": "themillennialimpact.com/research",
+                        "indices": [
+                            117,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Millennial",
+                    "indices": [
+                        89,
+                        100
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DonorsForum",
+                    "name": "Donors Forum (IL)",
+                    "id": 17276646,
+                    "id_str": "17276646",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "http://t.co/4OStVjMLCu",
+                    "expanded_url": "http://www.themillennialimpact.com/research",
+                    "display_url": "themillennialimpact.com/research",
+                    "indices": [
+                        139,
+                        140
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jun 25 16:09:29 +0000 2015",
+        "id": 614103124987506700,
+        "id_str": "614103124987506688",
+        "text": "RT @TheTurk9: Oil prices slip as Greece and Iran rattle market \nhttp://t.co/7E2PL4YUIU via @Reuters\n#Crude #Oil #Shale",
+        "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 896914057,
+            "id_str": "896914057",
+            "name": "Crude Oil Inventory",
+            "screen_name": "Oilinventory",
+            "location": "",
+            "description": "Gas, oil, petroleum and energy is of interest. In particular Crude Oil Inventory",
+            "url": "http://t.co/siHXsefS9k",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/siHXsefS9k",
+                            "expanded_url": "http://crude-oil-prices.net/",
+                            "display_url": "crude-oil-prices.net",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2240,
+            "friends_count": 1589,
+            "listed_count": 55,
+            "created_at": "Mon Oct 22 06:53:32 +0000 2012",
+            "favourites_count": 36,
+            "utc_offset": 10800,
+            "time_zone": "Athens",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 12604,
+            "lang": "no",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2749358108/eb9d6229ee87f25aab85bce18b1a1224_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2749358108/eb9d6229ee87f25aab85bce18b1a1224_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/896914057/1386005083",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jun 25 16:07:34 +0000 2015",
+            "id": 614102645792333800,
+            "id_str": "614102645792333824",
+            "text": "Oil prices slip as Greece and Iran rattle market \nhttp://t.co/7E2PL4YUIU via @Reuters\n#Crude #Oil #Shale",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 755771490,
+                "id_str": "755771490",
+                "name": "  The  TURK    ",
+                "screen_name": "TheTurk9",
+                "location": "",
+                "description": "Entertainer & Sports Fan providing insight.   - Retweets are not endorsements, just sharing to add perspective to topics.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 353,
+                "friends_count": 1483,
+                "listed_count": 32,
+                "created_at": "Mon Aug 13 20:24:17 +0000 2012",
+                "favourites_count": 8272,
+                "utc_offset": -18000,
+                "time_zone": "Central Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 34222,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/526812631265320960/ni6yVk4c_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/526812631265320960/ni6yVk4c_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/755771490/1422634897",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Crude",
+                        "indices": [
+                            86,
+                            92
+                        ]
+                    },
+                    {
+                        "text": "Oil",
+                        "indices": [
+                            93,
+                            97
+                        ]
+                    },
+                    {
+                        "text": "Shale",
+                        "indices": [
+                            98,
+                            104
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Reuters",
+                        "name": "Reuters Top News",
+                        "id": 1652541,
+                        "id_str": "1652541",
+                        "indices": [
+                            77,
+                            85
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "http://t.co/7E2PL4YUIU",
+                        "expanded_url": "http://reut.rs/1BNB8BS",
+                        "display_url": "reut.rs/1BNB8BS",
+                        "indices": [
+                            50,
+                            72
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Crude",
+                    "indices": [
+                        100,
+                        106
+                    ]
+                },
+                {
+                    "text": "Oil",
+                    "indices": [
+                        107,
+                        111
+                    ]
+                },
+                {
+                    "text": "Shale",
+                    "indices": [
+                        112,
+                        118
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "TheTurk9",
+                    "name": "  The  TURK    ",
+                    "id": 755771490,
+                    "id_str": "755771490",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "Reuters",
+                    "name": "Reuters Top News",
+                    "id": 1652541,
+                    "id_str": "1652541",
+                    "indices": [
+                        91,
+                        99
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "http://t.co/7E2PL4YUIU",
+                    "expanded_url": "http://reut.rs/1BNB8BS",
+                    "display_url": "reut.rs/1BNB8BS",
+                    "indices": [
+                        64,
+                        86
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jun 25 16:02:24 +0000 2015",
+        "id": 614101344715173900,
+        "id_str": "614101344715173888",
+        "text": "RT @TOGYnews: Tuesday's news roundup from the field: http://t.co/fKsjWB1PnN  #oil #natgas #offshore http://t.co/pZ9rfCCSdk",
+        "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 896914057,
+            "id_str": "896914057",
+            "name": "Crude Oil Inventory",
+            "screen_name": "Oilinventory",
+            "location": "",
+            "description": "Gas, oil, petroleum and energy is of interest. In particular Crude Oil Inventory",
+            "url": "http://t.co/siHXsefS9k",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/siHXsefS9k",
+                            "expanded_url": "http://crude-oil-prices.net/",
+                            "display_url": "crude-oil-prices.net",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2240,
+            "friends_count": 1589,
+            "listed_count": 55,
+            "created_at": "Mon Oct 22 06:53:32 +0000 2012",
+            "favourites_count": 36,
+            "utc_offset": 10800,
+            "time_zone": "Athens",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 12604,
+            "lang": "no",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2749358108/eb9d6229ee87f25aab85bce18b1a1224_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2749358108/eb9d6229ee87f25aab85bce18b1a1224_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/896914057/1386005083",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jun 25 16:00:24 +0000 2015",
+            "id": 614100839104319500,
+            "id_str": "614100839104319488",
+            "text": "Tuesday's news roundup from the field: http://t.co/fKsjWB1PnN  #oil #natgas #offshore http://t.co/pZ9rfCCSdk",
+            "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 355433330,
+                "id_str": "355433330",
+                "name": "The Oil & Gas Year",
+                "screen_name": "TOGYnews",
+                "location": "",
+                "description": "TOGY publications feature in-depth articles, analyses and resources to present a clear picture of the global oil and gas industry and its associated sectors.",
+                "url": "http://t.co/UGTFyGNQL6",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/UGTFyGNQL6",
+                                "expanded_url": "http://theoilandgasyear.com",
+                                "display_url": "theoilandgasyear.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 6907,
+                "friends_count": 797,
+                "listed_count": 106,
+                "created_at": "Mon Aug 15 10:32:04 +0000 2011",
+                "favourites_count": 112,
+                "utc_offset": 10800,
+                "time_zone": "Istanbul",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 3571,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3510039517/63e329a2ab342586699fc692f9c8457a_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3510039517/63e329a2ab342586699fc692f9c8457a_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/355433330/1368008284",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "oil",
+                        "indices": [
+                            63,
+                            67
+                        ]
+                    },
+                    {
+                        "text": "natgas",
+                        "indices": [
+                            68,
+                            75
+                        ]
+                    },
+                    {
+                        "text": "offshore",
+                        "indices": [
+                            76,
+                            85
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/fKsjWB1PnN",
+                        "expanded_url": "http://bit.ly/TOGYnews",
+                        "display_url": "bit.ly/TOGYnews",
+                        "indices": [
+                            39,
+                            61
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 614071261430288400,
+                        "id_str": "614071261430288384",
+                        "indices": [
+                            86,
+                            108
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CIWejwxUEAA2uaB.png",
+                        "media_url_https": "https://pbs.twimg.com/media/CIWejwxUEAA2uaB.png",
+                        "url": "http://t.co/pZ9rfCCSdk",
+                        "display_url": "pic.twitter.com/pZ9rfCCSdk",
+                        "expanded_url": "http://twitter.com/TOGYnews/status/614100839104319488/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 340,
+                                "h": 263,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 465,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 747,
+                                "h": 579,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 614071261430288400,
+                        "id_str": "614071261430288384",
+                        "indices": [
+                            86,
+                            108
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CIWejwxUEAA2uaB.png",
+                        "media_url_https": "https://pbs.twimg.com/media/CIWejwxUEAA2uaB.png",
+                        "url": "http://t.co/pZ9rfCCSdk",
+                        "display_url": "pic.twitter.com/pZ9rfCCSdk",
+                        "expanded_url": "http://twitter.com/TOGYnews/status/614100839104319488/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 340,
+                                "h": 263,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 465,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 747,
+                                "h": 579,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "oil",
+                    "indices": [
+                        77,
+                        81
+                    ]
+                },
+                {
+                    "text": "natgas",
+                    "indices": [
+                        82,
+                        89
+                    ]
+                },
+                {
+                    "text": "offshore",
+                    "indices": [
+                        90,
+                        99
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "TOGYnews",
+                    "name": "The Oil & Gas Year",
+                    "id": 355433330,
+                    "id_str": "355433330",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "http://t.co/fKsjWB1PnN",
+                    "expanded_url": "http://bit.ly/TOGYnews",
+                    "display_url": "bit.ly/TOGYnews",
+                    "indices": [
+                        53,
+                        75
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 614071261430288400,
+                    "id_str": "614071261430288384",
+                    "indices": [
+                        100,
+                        122
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CIWejwxUEAA2uaB.png",
+                    "media_url_https": "https://pbs.twimg.com/media/CIWejwxUEAA2uaB.png",
+                    "url": "http://t.co/pZ9rfCCSdk",
+                    "display_url": "pic.twitter.com/pZ9rfCCSdk",
+                    "expanded_url": "http://twitter.com/TOGYnews/status/614100839104319488/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 340,
+                            "h": 263,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 465,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 747,
+                            "h": 579,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 614100839104319500,
+                    "source_status_id_str": "614100839104319488",
+                    "source_user_id": 355433330,
+                    "source_user_id_str": "355433330"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 614071261430288400,
+                    "id_str": "614071261430288384",
+                    "indices": [
+                        100,
+                        122
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CIWejwxUEAA2uaB.png",
+                    "media_url_https": "https://pbs.twimg.com/media/CIWejwxUEAA2uaB.png",
+                    "url": "http://t.co/pZ9rfCCSdk",
+                    "display_url": "pic.twitter.com/pZ9rfCCSdk",
+                    "expanded_url": "http://twitter.com/TOGYnews/status/614100839104319488/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 340,
+                            "h": 263,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 465,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 747,
+                            "h": 579,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 614100839104319500,
+                    "source_status_id_str": "614100839104319488",
+                    "source_user_id": 355433330,
+                    "source_user_id_str": "355433330"
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    }
+]

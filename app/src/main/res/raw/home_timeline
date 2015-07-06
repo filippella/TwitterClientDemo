@@ -1,0 +1,3 @@
+CREATE TABLE timeline (
+	`created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+	`timeline_home` TEXT);

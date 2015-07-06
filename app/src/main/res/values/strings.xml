@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Twitter Client Exercise</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="account_type">uk.co.tae.twitterclientexercise</string>
+</resources>
